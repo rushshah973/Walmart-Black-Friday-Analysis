@@ -53,13 +53,6 @@ The dataset (`walmart_data.csv`) includes:
 
 ---
 
-## 📁 Project Structure  
-- `walmart_data.csv`: Dataset.  
-- `BlackFridayAnalysis.ipynb`: Jupyter Notebook containing analysis.  
-- `Visualizations/`: Folder with generated charts and graphs.  
-
----
-
 ## 🛠 Tools and Technologies  
 - **Python**: pandas, numpy, matplotlib, seaborn.  
 - **Jupyter Notebook**: Data analysis and visualization.  
